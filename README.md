@@ -138,10 +138,6 @@ Reduces failed transactions.
 
 **Friction Mapping Diagram**
 Open App → Select Contact → Enter Amount → Confirm → Pay
-              │                 │           │
-              │                 │           │
-          Contact clutter   No smart    Anxiety about
-                            suggestions wrong payment
 
 
 # 5. AI-Powered Enhancements
@@ -203,9 +199,11 @@ Outcome:
 **Zero manual navigation.**
 
 **AI Agent Workflow Diagram**
-**User Prompt**
+User Prompt
 "Send ₹500 to Rahul for dinner"
+
            ↓
+           
 Intent Detection (AI)
            ↓
 Contact Identification
