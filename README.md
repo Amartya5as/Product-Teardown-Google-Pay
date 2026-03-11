@@ -198,6 +198,10 @@ AI agent pipeline:
 Outcome:
 **Zero manual navigation.**
 
+**AI Agent Workflow Diagram**
+User Prompt
+<img width="368" height="343" alt="image" src="https://github.com/user-attachments/assets/353a925d-2324-4272-a7bc-a0e2d833cd60" />
+
 
 # 7. Prioritized Roadmap
 **Phase 1 (0–3 months) — Quick Wins**
