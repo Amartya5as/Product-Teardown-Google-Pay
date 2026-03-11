@@ -197,9 +197,8 @@ AI agent pipeline:
 
 Outcome:
 **Zero manual navigation.**
-
 **AI Agent Workflow Diagram**
-User Prompt
+
 <img width="368" height="343" alt="image" src="https://github.com/user-attachments/assets/353a925d-2324-4272-a7bc-a0e2d833cd60" />
 
 
@@ -224,8 +223,8 @@ Improves engagement.
 
 Impact:
 Transforms UX to proactive finance.
-
 **Impact vs Effort Prioritization Matrix**
+
 <img width="387" height="307" alt="image" src="https://github.com/user-attachments/assets/315bd3c8-b05d-470d-a57b-12a6a9f467f3" />
 
 
