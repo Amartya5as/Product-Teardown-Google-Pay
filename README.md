@@ -137,7 +137,8 @@ Reduces failed transactions.
 2. Retry success rate
 
 **Friction Mapping Diagram**
-Open App → Select Contact → Enter Amount → Confirm → Pay
+
+<img width="490" height="134" alt="image" src="https://github.com/user-attachments/assets/30f6bc5a-ccf7-46cf-ada5-6f8b6cea3b53" />
 
 
 # 5. AI-Powered Enhancements
