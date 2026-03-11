@@ -202,7 +202,9 @@ Outcome:
 User Prompt
 
 "Send ₹500 to Rahul for dinner"
+           
            ↓
+           
 Intent Detection (AI)
            ↓
 Contact Identification
