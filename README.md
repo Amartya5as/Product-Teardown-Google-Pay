@@ -200,10 +200,9 @@ Outcome:
 
 **AI Agent Workflow Diagram**
 User Prompt
-"Send ₹500 to Rahul for dinner"
 
+"Send ₹500 to Rahul for dinner"
            ↓
-           
 Intent Detection (AI)
            ↓
 Contact Identification
