@@ -198,25 +198,6 @@ AI agent pipeline:
 Outcome:
 **Zero manual navigation.**
 
-**AI Agent Workflow Diagram**
-User Prompt
-
-"Send ₹500 to Rahul for dinner"
-           
-           ↓
-           
-Intent Detection (AI)
-           ↓
-Contact Identification
-           ↓
-Amount Confirmation
-           ↓
-Fraud Check
-           ↓
-Execute Payment
-           ↓
-Transaction Confirmation
-
 
 # 7. Prioritized Roadmap
 **Phase 1 (0–3 months) — Quick Wins**
@@ -241,18 +222,7 @@ Impact:
 Transforms UX to proactive finance.
 
 **Impact vs Effort Prioritization Matrix**
-                HIGH IMPACT
-                    │
-                    │
-   AI Payment       │      Smart Amount
-   Assistant        │      Suggestions
-                    │
-LOW EFFORT ─────────┼───────── HIGH EFFORT
-                    │
-UPI Contact Badge   │
-                    │
-                    │
-                LOW IMPACT
+<img width="387" height="307" alt="image" src="https://github.com/user-attachments/assets/315bd3c8-b05d-470d-a57b-12a6a9f467f3" />
 
 
 # 8. Metrics to Track
